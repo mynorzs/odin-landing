@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+:root {
+  --dark-blue: #1f2937;
+  --main-text: #f9faf8;
+  --light-greyt: #e5e7eb;
+  --call-to-action: #3882f6;
+}
